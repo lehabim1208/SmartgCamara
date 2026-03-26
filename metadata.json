@@ -1,0 +1,5 @@
+{
+  "name": "SmartGo PWA",
+  "description": "Technical PWA for SmartGo with camera, timestamp, geolocation, and cloud storage.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
